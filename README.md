@@ -1,4 +1,4 @@
-# Song Analysis in Power BI
+# Song Analysis in Power BI 📈💻🎵
 
 ## Table of Contents
 1- [Project Overview](#project-overview)
@@ -33,7 +33,13 @@ Key recommendations included prioritizing high-definition (HD) video releases, s
 
 Through this analysis, the project aimed to equip content creators and stakeholders with the tools and strategies needed to optimize their YouTube song videos for greater success in a competitive digital landscape.
 
+
+
+![Medium first](https://github.com/user-attachments/assets/68283e6c-cf47-42e3-a9bc-7565bdcb2acc)
+
+
 ## The Dataset
+
 
 The dataset contains key attributes such as video ID, channel title, title, description, tags, published date, view count, like count, favorite count, comment count, video duration, video definition, and caption details. Dataset Description
 1. video_id: Unique identifier for each YouTube video.
